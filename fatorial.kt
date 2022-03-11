@@ -1,4 +1,3 @@
-// Comandos de repetição
 fun main(){
     var valor:Int = 5
     var decremento:Int = 0
